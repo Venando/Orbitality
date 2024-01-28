@@ -9,6 +9,8 @@
 
  ![example gif alt text](https://i.imgur.com/X8xpbDl.png)
 
+https://github.com/Venando/Orbitality/assets/16961677/c9529a19-c061-45ab-84cb-61a588e39ae9
+
 ### Main features:
 
 ● Player is in control of a planet, rotating around the Sun.
