@@ -1,4 +1,4 @@
-# Orbitality - Test project for Unity developer position for Ubifost (Ukraine) 2019 - time limit 2 days
+# Orbitality - Test project for Unity developer position for Ubisoft (Ukraine) 2019 - time limit 2 days
 ### This is planetary artillery arcade in pseudo 2D
  
  Unity version: **2022.3.10f1**
